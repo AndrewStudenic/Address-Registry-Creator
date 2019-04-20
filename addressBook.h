@@ -67,9 +67,6 @@ public:
 	 */
 	addressBook(addressType fAddress, string fName = "",
 		string lName = "", string phone = "", string bDay = "");
-
-	//addressBook(string fName, string lName, addressType fAddress, string phone,
-	//	string bDay);
 	/* Constructor
 	 * Sets firstName, lastName, fullAddress, phoneNumber and birthdate
 	 * according to the parameters.
